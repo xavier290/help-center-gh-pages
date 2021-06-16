@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/xavier290/help-center-gh-pages/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/xavier290/help-center-gh-pages/static/js/main.221dd709.chunk.js",
+    "main.js.map": "/xavier290/help-center-gh-pages/static/js/main.221dd709.chunk.js.map",
+    "runtime-main.js": "/xavier290/help-center-gh-pages/static/js/runtime-main.e53f0d06.js",
+    "runtime-main.js.map": "/xavier290/help-center-gh-pages/static/js/runtime-main.e53f0d06.js.map",
+    "static/js/2.4172c710.chunk.js": "/xavier290/help-center-gh-pages/static/js/2.4172c710.chunk.js",
+    "static/js/2.4172c710.chunk.js.map": "/xavier290/help-center-gh-pages/static/js/2.4172c710.chunk.js.map",
+    "static/js/3.8f033fa8.chunk.js": "/xavier290/help-center-gh-pages/static/js/3.8f033fa8.chunk.js",
+    "static/js/3.8f033fa8.chunk.js.map": "/xavier290/help-center-gh-pages/static/js/3.8f033fa8.chunk.js.map",
+    "index.html": "/xavier290/help-center-gh-pages/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/xavier290/help-center-gh-pages/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4172c710.chunk.js.LICENSE.txt": "/xavier290/help-center-gh-pages/static/js/2.4172c710.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/xavier290/help-center-gh-pages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e53f0d06.js",
+    "static/js/2.4172c710.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.221dd709.chunk.js"
+  ]
+}
