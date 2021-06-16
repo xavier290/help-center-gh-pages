@@ -3,8 +3,8 @@
     "main.css": "/xavier290/help-center-gh-pages/static/css/main.bc818752.chunk.css",
     "main.js": "/xavier290/help-center-gh-pages/static/js/main.418b9acf.chunk.js",
     "main.js.map": "/xavier290/help-center-gh-pages/static/js/main.418b9acf.chunk.js.map",
-    "runtime-main.js": "/xavier290/help-center-gh-pages/static/js/runtime-main.0cb628e2.js",
-    "runtime-main.js.map": "/xavier290/help-center-gh-pages/static/js/runtime-main.0cb628e2.js.map",
+    "runtime-main.js": "/xavier290/help-center-gh-pages/static/js/runtime-main.17847a99.js",
+    "runtime-main.js.map": "/xavier290/help-center-gh-pages/static/js/runtime-main.17847a99.js.map",
     "static/js/2.cc487c7c.chunk.js": "/xavier290/help-center-gh-pages/static/js/2.cc487c7c.chunk.js",
     "static/js/2.cc487c7c.chunk.js.map": "/xavier290/help-center-gh-pages/static/js/2.cc487c7c.chunk.js.map",
     "static/js/3.4ea4ba51.chunk.js": "/xavier290/help-center-gh-pages/static/js/3.4ea4ba51.chunk.js",
@@ -15,8 +15,8 @@
     "static/js/5.2e515174.chunk.js.map": "/xavier290/help-center-gh-pages/static/js/5.2e515174.chunk.js.map",
     "static/js/6.52453e9b.chunk.js": "/xavier290/help-center-gh-pages/static/js/6.52453e9b.chunk.js",
     "static/js/6.52453e9b.chunk.js.map": "/xavier290/help-center-gh-pages/static/js/6.52453e9b.chunk.js.map",
-    "static/js/7.4cdc2f94.chunk.js": "/xavier290/help-center-gh-pages/static/js/7.4cdc2f94.chunk.js",
-    "static/js/7.4cdc2f94.chunk.js.map": "/xavier290/help-center-gh-pages/static/js/7.4cdc2f94.chunk.js.map",
+    "static/js/7.111444aa.chunk.js": "/xavier290/help-center-gh-pages/static/js/7.111444aa.chunk.js",
+    "static/js/7.111444aa.chunk.js.map": "/xavier290/help-center-gh-pages/static/js/7.111444aa.chunk.js.map",
     "static/js/8.ed1b8091.chunk.js": "/xavier290/help-center-gh-pages/static/js/8.ed1b8091.chunk.js",
     "static/js/8.ed1b8091.chunk.js.map": "/xavier290/help-center-gh-pages/static/js/8.ed1b8091.chunk.js.map",
     "static/js/9.7e4c4745.chunk.js": "/xavier290/help-center-gh-pages/static/js/9.7e4c4745.chunk.js",
@@ -35,7 +35,7 @@
     "static/media/loop.ffb58015.svg": "/xavier290/help-center-gh-pages/static/media/loop.ffb58015.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0cb628e2.js",
+    "static/js/runtime-main.17847a99.js",
     "static/js/2.cc487c7c.chunk.js",
     "static/css/main.bc818752.chunk.css",
     "static/js/main.418b9acf.chunk.js"
