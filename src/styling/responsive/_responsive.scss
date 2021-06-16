@@ -1,0 +1,42 @@
+.index {
+  @include media(">=tablet") {
+    input {
+      min-width: 300px !important;
+    }
+  }
+}
+
+.search {
+  @include media(">=desktop") {
+    input {
+      min-width: 360px !important;
+    }
+  }
+}
+
+#menu {
+  @include media(">=desktop") {
+    display: block !important;
+  }
+}
+
+.box {
+  @include media(">=phone") {
+    max-width: 305px !important;
+  }
+}
+
+.box {
+  @include media(">=tablet") {
+    max-width: 220px !important;
+  }
+}
+
+.box {
+  @include media(">=desktop") {
+    max-width: 200px !important;
+    a {
+      font-size: 16px;
+    }
+  }
+}

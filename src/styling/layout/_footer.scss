@@ -1,0 +1,13 @@
+footer {
+  display: flex;
+  flex-direction: column;
+  height: 12vh;
+  justify-content: center;
+  text-align: center;
+  background-color: $second-background-color;
+
+  p {
+    color: #fff;
+    font-size: 14px;
+  }
+}

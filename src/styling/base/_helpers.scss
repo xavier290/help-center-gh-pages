@@ -1,0 +1,16 @@
+.clearfix::after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.container-app {
+  width: 100%;
+  min-height: 100vh;
+  position: relative;
+  display: flex !important;
+}
+
+.container {
+  padding-top: 2%;
+}
