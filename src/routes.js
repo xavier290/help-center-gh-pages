@@ -9,6 +9,27 @@ const WoodTrusses = React.lazy(() => import("./pages/woodtrusses"));
 const routes = [
   {
     enabled: true,
+    path: "#",
+    component: null,
+    navbar: "Builders.com",
+    child: null,
+  },
+  {
+    enabled: true,
+    path: "#",
+    component: null,
+    navbar: "Builders Enterprise",
+    child: null,
+  },
+  {
+    enabled: true,
+    path: "#",
+    component: null,
+    navbar: "Billing and Payments",
+    child: null,
+  },
+  {
+    enabled: true,
     path: "/engineered-wood-products",
     component: WoodProducts,
     navbar: "engineered wood products",

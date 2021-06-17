@@ -4,8 +4,8 @@ import React, { Component, Fragment, Suspense } from "react";
 import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 //components
-import SideBar from "./components/sidebar";
 import Spinner from "react-bootstrap/Spinner";
+import Header from "./components/header";
 
 //pages
 import Index from "./pages/index";
@@ -17,7 +17,7 @@ export class App extends Component {
       <div className="container-app">
         <Router>
           <Fragment>
-            <SideBar />
+            <Header />
             <Suspense
               fallback={
                 <div className="loader">

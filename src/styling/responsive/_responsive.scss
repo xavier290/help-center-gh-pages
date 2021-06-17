@@ -35,8 +35,24 @@
 .box {
   @include media(">=desktop") {
     max-width: 200px !important;
+    margin: 10px !important;
+
     a {
       font-size: 16px;
+    }
+  }
+}
+
+.main-content {
+  @include media(">=desktop") {
+    justify-content: left !important;
+  }
+}
+
+.flex-column {
+  @include media(">=desktop") {
+    li {
+      padding: 1% !important;
     }
   }
 }
