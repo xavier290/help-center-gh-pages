@@ -1,0 +1,2 @@
+(this["webpackJsonpapp-gh-pages"]=this["webpackJsonpapp-gh-pages"]||[]).push([[8],{55:function(n,e,t){"use strict";t.r(e);var a=t(0),c=t.n(a),p=t(4),s=t(1),i=c.a.lazy((function(){return t.e(9).then(t.bind(null,50))}));e.default=function(){var n=Object(p.g)().path;return Object(s.jsx)("div",{className:"index",children:Object(s.jsx)(p.c,{children:Object(s.jsx)(p.a,{path:"".concat(n),component:i})})})}}}]);
+//# sourceMappingURL=8.2f223ea7.chunk.js.map
